@@ -1,4 +1,4 @@
-# Ehresources
+ETHICAL HACKING RESOURCES
 
 
 | Name | Source | Description |
