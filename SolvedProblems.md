@@ -47,7 +47,7 @@ Storage:
     1. Checking vm configturation
         - Check for VM settings of your kali machine.
         - Select `System` -> `Motherboard`
-        - Check if "Pointing Device" is in `USB tablet"/PS2 Mouse`, if not change it to this
+        - Check if "Pointing Device" is in `USB tablet/PS2 Mouse`, if not change it to this
         - And try again
     2. Checking kali machine configuration
         - Start your kali machine
