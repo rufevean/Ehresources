@@ -53,3 +53,7 @@ Storage:
         - Start your kali machine
         - On top of that window you will see the VM menu bar
         - Click on `Device` -> `Install Guest Addition CD Image`
+
+<br>
+
+- [*`M1 and M2 apple devices`*](https://youtu.be/9zdjQ9w_v_4)
