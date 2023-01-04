@@ -4,7 +4,7 @@
 ## Why does this exist?
 This repository is made for TCM Security (ZeroToMastery on discord) cybersecurity course, it was made bcs every link or anything in pinned messages was deleted so now `DeadSkajp#5906` came up with an idea to make github repository for every possible problem that can occur.
 
-im taking few things from this too [Ehresources](https://github.com/rufevean/Ehresources/blob/main/Resources.MD)
+
 
 <br>
 
