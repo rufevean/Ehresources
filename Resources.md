@@ -18,4 +18,5 @@ ETHICAL HACKING RESOURCES
 |meterpreter tutorial| https://www.youtube.com/watch?v=xsyeL6xWWy4 | |
 |top 75 eh tools by fyodor| https://www.youtube.com/watch?v=xsyeL6xWWy4| |
 |vega vulnerability scanner| https://subgraph.com/vega/| |
+|hackstoolpack|https://github.com/hacktoolspack/hack-tools| a github repo for hacking tools|
 
