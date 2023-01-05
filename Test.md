@@ -10,6 +10,7 @@
 
 * [**TryHackMe**](https://tryhackme.com) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 
+---
 
 # Websites for references
 
@@ -21,7 +22,9 @@
 
 * [**Offensive Security**](https://www.offensive-security.com/)-Offensive Security is an American international company working in information security, penetration testing and digital forensics
 
-#Tutorials
+---
+
+# Tutorials
 
 * [**Wireshark playlist**](https://youtube.com/playlist?list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt)-Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education
 
