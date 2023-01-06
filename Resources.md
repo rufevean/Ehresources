@@ -14,7 +14,7 @@
 
 # Websites for references
 
-* [**Official Documentations of MetaSploit**](https://docs.metasploit.com/) - The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+* [**Official Documentations of MetaSploitable**](https://docs.metasploit.com/) - The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
 
 * [**Nmap reference guide**](https://nmap.org/book/toc.html)-Nmap is a network scanner created by Gordon Lyon. Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. 
 
@@ -32,10 +32,37 @@
 
 ---
 
-# WORK UNDER PROGRESS
 
-## Tools
+
+## Tools 
+
+[*source*](https://sectools.org/)
+
+* [**Nmap**](https://nmap.org/) - Network exploration, host discover, security auditing 
+
+* [**WireShark**](https://www.wireshark.org/) - reading and writing data transmitted over an unsecure or compromised network , Packet sniffer,analyzes network traffic in real-time for Windows, Mac, Unix, and Linux systems.
+
+* [**Metasploit**](https://www.metasploit.com/) - it is an advanced open-source platform for developing, testing, and using exploit code. 
+
+* [**Nessus**](https://www.tenable.com/products/nessus/nessus-professional)-vulnerability scanner
+
+* [**AirCrack**](http://www.aircrack-ng.org/) - suite of tools for 802.11a/b/g WEP and WPA cracking
+
+* [**Snort**](https://www.snort.org/) - network intrusion detection and prevention system excels at traffic analysis and packet logging on IP networks. 
+
+* [**Cain and Abel**](www.oxid.it/cain.html) - Windows-only password recovery tool handles an enormous variety of tasks. It can recover passwords by sniffing the network, cracking encrypted passwords using dictionary, brute-force and cryptanalysis attacks, recording VoIP conversations, decoding scrambled passwords, revealing password boxes, uncovering cached passwords and analyzing routing protocols.[Documentation](www.oxid.it/ca_um/)
+
+* [**BackTrack**](https://www.backtrack-linux.org/) - huge variety of Security and Forensics tools 
+
+* [**NetCat**](http://en.wikipedia.org/wiki/Netcat) - writes data across TCP or UDP network connections. It is designed to be a reliable back-end tool to use directly or easily drive by other programs and scripts.
+
+* [**Tcpdump**](http://www.tcpdump.org/)http://www.tcpdump.org/) -network sniffer
+
+---
+# WORK UNDER PROGRESS
 
 ## Articles
 
 ## Other References
+
+## Books
