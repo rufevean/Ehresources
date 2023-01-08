@@ -62,7 +62,7 @@
 
 * [**Kismet**](www.kismetwireless.net)- layer-2 wireless network detector, sniffer, and intrusion detection system.
 
-* [**OpenSSH**](http://www.openssh.com/)[**PuTTY**](https://www.chiark.greenend.org.uk/~sgtatham/putty/)[**SSH**](https://www.ssh.com/) - program for logging into or executing commands on a remote machine. It provides secure encrypted communications between two untrusted hosts over an insecure network, replacing the hideously insecure telnet/rlogin/rsh alternatives. 
+* [**OpenSSH**](http://www.openssh.com/),[**PuTTY**](https://www.chiark.greenend.org.uk/~sgtatham/putty/),[**SSH**](https://www.ssh.com/) - program for logging into or executing commands on a remote machine. It provides secure encrypted communications between two untrusted hosts over an insecure network, replacing the hideously insecure telnet/rlogin/rsh alternatives. 
 
 * [**Burp Suite**](https://portswigger.net/burp) - Burp Suite is an integrated platform for attacking web applications. It contains a variety of tools with numerous interfaces between them designed to facilitate and speed up the process of attacking an application.
 
