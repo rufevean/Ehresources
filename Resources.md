@@ -58,6 +58,27 @@
 
 * [**Tcpdump**](http://www.tcpdump.org/) -network sniffer
 
+* [**John the ripper**](https://www.openwall.com/john/)-fast password cracker for UNIX/Linux and Mac OS X.
+
+* [**Kismet**](www.kismetwireless.net)- layer-2 wireless network detector, sniffer, and intrusion detection system.
+
+* [**OpenSSH**](http://www.openssh.com/)[**PuTTY**](https://www.chiark.greenend.org.uk/~sgtatham/putty/)[**SSH**](https://www.ssh.com/) - program for logging into or executing commands on a remote machine. It provides secure encrypted communications between two untrusted hosts over an insecure network, replacing the hideously insecure telnet/rlogin/rsh alternatives. 
+
+* [**Burp Suite**](https://portswigger.net/burp) - Burp Suite is an integrated platform for attacking web applications. It contains a variety of tools with numerous interfaces between them designed to facilitate and speed up the process of attacking an application.
+
+* [**Nikto**](https://cirt.net/nikto2) - Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 6400 potentially dangerous files/CGIs, checks for outdated versions of over 1200 servers, and version specific problems on over 270 servers. 
+
+* [**Hping**](www.hping.org)-sends custom ICMP, UDP, or TCP packets and then displays any replies. 
+
+* [**Ettercap**](https://www.ettercap-project.org/) - Ettercap is a suite for man in the middle attacks on LAN
+
+* [**w3af**](http://w3af.org/)-flexible framework for finding and exploiting web application vulnerabilities. 
+
+* [**OpenVAS**](www.openvas.org) -vulnerability scanner that was forked from the last free version of **Nessus** after that tool went proprietary in 2005
+
+* [**Scapy**](https://scapy.net/) - packet manipulation tool, packet generator, network scanner, network discovery tool, and packet sniffer. 
+
+
 ---
 # WORK UNDER PROGRESS
 
