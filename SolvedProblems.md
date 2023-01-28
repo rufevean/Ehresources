@@ -56,4 +56,4 @@ Storage:
 
 <br>
 
-- [*`M1 and M2 apple devices`*](https://youtu.be/9zdjQ9w_v_4)
+- [*`Device with Apple Silicon (M1/M2) cpu`*](https://youtu.be/9zdjQ9w_v_4)
